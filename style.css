@@ -46,6 +46,8 @@ footer {
   float: left;
   width: 33.33%;
   padding: 15px;
+  box-sizing: border-box;
+  border: solid 2px green;
 }
 
 /* Clear floats after the columns */
